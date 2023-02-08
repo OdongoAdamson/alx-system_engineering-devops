@@ -1,1 +1,2 @@
 Task 0 shellbasic print working dir
+command to list whats in here in 1-listit
