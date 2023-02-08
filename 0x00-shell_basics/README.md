@@ -5,3 +5,4 @@ Task 3, Script that shows how to print in long format
 Task 4, script that print even hidden files
 Task 5, script to list files digits only
 Task 6, Script to make directory
+Task 7, Script t move file
