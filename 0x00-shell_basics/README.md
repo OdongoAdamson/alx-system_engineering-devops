@@ -6,3 +6,4 @@ Task 4, script that print even hidden files
 Task 5, script to list files digits only
 Task 6, Script to make directory
 Task 7, Script t move file
+Task 8, Removing betty
