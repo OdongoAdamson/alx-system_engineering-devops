@@ -4,4 +4,5 @@ Task 2, showing my groups
 Task 3, Changing owner to betty
 Task 4, created empty hello
 Task 5, Executing rights 
+Task 6, Adding multiple permissions
 
