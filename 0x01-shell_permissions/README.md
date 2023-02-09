@@ -5,4 +5,5 @@ Task 3, Changing owner to betty
 Task 4, created empty hello
 Task 5, Executing rights 
 Task 6, Adding multiple permissions
+Task 7, Everybody executes
 
