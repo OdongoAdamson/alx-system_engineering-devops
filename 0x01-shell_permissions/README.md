@@ -13,4 +13,5 @@ Task 11, Directory permissions
 Task 12, My directory permissions
 Task 13, Change ownership of group
 Task 14, Change owner and group at the same time
+Task 15, change owner of symbolic link 101
 
