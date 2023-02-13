@@ -10,4 +10,5 @@ Task 7, Incomplete
 Task 8, save current state of directory
 Task 9, Duplicatelines
 Task 10, Remove all .js
+Task 11, Count directories
 
