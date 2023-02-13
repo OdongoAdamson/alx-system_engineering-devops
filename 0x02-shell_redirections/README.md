@@ -17,4 +17,5 @@ Task 14, Finding a word
 Task 15, COunting words
 Task 16, Whats next
 Task 17, I hate bins
+Task 18, Letters only please
 
