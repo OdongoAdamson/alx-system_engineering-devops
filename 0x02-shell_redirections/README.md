@@ -8,4 +8,5 @@ Task 5, Showing !st 10 lines
 Task 6, Showing third line
 Task 7, Incomplete
 Task 8, save current state of directory
+Task 9, Duplicatelines
 
