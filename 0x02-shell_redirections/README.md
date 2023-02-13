@@ -3,5 +3,7 @@ Task 0, Hello World
 Task 1, Confused smiley
 Task 2, Displaying /etc/passwd file
 Task 3, Dsiplaying 2 files
-Task 4, Showing 10 last lines
+Task 4, Showing 10 last line
+Task 5, Showing !st 10 lines
+Task 6, Showing third line
 
