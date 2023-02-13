@@ -20,4 +20,5 @@ Task 17, I hate bins
 Task 18, Letters only please
 Task 19, A-Z
 Task 20, Without c
+tASK 21, ALL reverse
 
