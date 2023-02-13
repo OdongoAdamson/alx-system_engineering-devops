@@ -9,4 +9,5 @@ Task 6, Showing third line
 Task 7, Incomplete
 Task 8, save current state of directory
 Task 9, Duplicatelines
+Task 10, Remove all .js
 
