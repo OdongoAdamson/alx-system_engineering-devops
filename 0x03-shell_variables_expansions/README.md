@@ -9,4 +9,5 @@ Task 6, new local variable
 Task 7, new global variable
 Task 8, True knowledge as addition to human power
 Task 9, Divide and rule
+Task 10, Breath to the power of love
 
