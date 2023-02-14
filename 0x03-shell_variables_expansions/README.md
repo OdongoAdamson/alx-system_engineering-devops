@@ -11,4 +11,5 @@ Task 8, True knowledge as addition to human power
 Task 9, Divide and rule
 Task 10, Breath to the power of love
 Task 11, Those who understand binary
+Task 12, all combinations
 
