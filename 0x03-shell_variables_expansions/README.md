@@ -7,4 +7,5 @@ Task 4, global variables
 Task 5, local variables
 Task 6, new local variable
 Task 7, new global variable
+Task 8, True knowledge as addition to human power
 
