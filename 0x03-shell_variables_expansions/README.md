@@ -6,4 +6,5 @@ Task 3, Lets not ask where it leads
 Task 4, global variables
 Task 5, local variables
 Task 6, new local variable
+Task 7, new global variable
 
