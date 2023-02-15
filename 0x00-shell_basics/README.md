@@ -9,3 +9,5 @@ Task 7, Script t move file
 Task 8, Removing betty
 Task 9, first dir delition
 Task 10, changing directory to the previous one
+Task 15. lets move it
+
