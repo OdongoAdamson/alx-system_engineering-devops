@@ -10,4 +10,5 @@ Task 8, Removing betty
 Task 9, first dir delition
 Task 10, changing directory to the previous one
 Task 15. lets move it
+Task 16, no more emacs
 
