@@ -12,4 +12,14 @@
 10 - No more js
 11 - Counting directories
 12 - Display 10 newest files in directoriy
+13 - Be unique
+14 - Find that word
+15 - counting words
+16 - whats next
+17 - i hate bins
+18 - Letters only Please
+19 - A - Z
+20 - Living without C
+21 - Reverse
+22 - Cut Killer
 
