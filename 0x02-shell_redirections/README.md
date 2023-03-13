@@ -7,4 +7,4 @@
 5 - Display first 10 lines
 6 - Display 3rd line of file
 7 - Good file cutting iron without making noise
-
+8 - Save state if directory
