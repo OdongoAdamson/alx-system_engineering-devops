@@ -9,4 +9,6 @@
 7 - Good file cutting iron without making noise
 8 - Save state if directory
 9 - Duplicate last lines
+10 - No more js
+11 - Counting directories
 
