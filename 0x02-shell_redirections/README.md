@@ -8,3 +8,5 @@
 6 - Display 3rd line of file
 7 - Good file cutting iron without making noise
 8 - Save state if directory
+9 - Duplicate last lines
+
