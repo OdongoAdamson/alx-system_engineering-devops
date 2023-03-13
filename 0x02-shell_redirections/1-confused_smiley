@@ -2,5 +2,5 @@
 <<<<<<< HEAD
 cat /etc/passwd
 =======
-echo '"(Ôo)'\'
+echo '\"(Ôo)\'
 >>>>>>> 7e29013a18925f95c44b1f049535230bf59bf72c
